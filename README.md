@@ -1,5 +1,11 @@
-## Hi there 👋
+<div id = "welcome-header" align="center">
+<h3>Hi there 👋, My name is Papa A. Diallo. But you can call me </h3>
+<h1>PapaBaaB 🤓</h1>
+</div>
 
+<div align="center" id = "image-header">
+  <img alt = "coding-gif" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55bjc2OXAyeXp3cm0wamZlMnNnMmRrZWRrNno3dGp2bXUyYWJuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+</div
 <!--
 **papabaab/papabaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
