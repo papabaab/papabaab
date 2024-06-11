@@ -50,6 +50,7 @@ I also enjoy programming music and a very devoted sufi student. God First.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman"  height="100"/>&nbsp;
   <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="VisualCode" height="100"/>
 </div>
 
 <!--
