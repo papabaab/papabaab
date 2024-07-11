@@ -57,21 +57,21 @@ I also enjoy programming music and a very devoted sufi student. God First.
 ## LATEST PROJECTS - PORTFOLIO:
 <div>
   <a target= "_blank" href= "https://microfinance-digitale-codecrafter-oytr2c9lg.vercel.app/home">
-    <img title="video-codecrafter" width = "500" src="https://github.com/papabaab/papabaab/assets/46681748/f94d7ba0-484f-4c34-a96a-89d49b9238ad" alt="microfinance-digital"/>
+    <img title="video-codecrafter" width = "400" src="https://github.com/papabaab/papabaab/assets/46681748/f94d7ba0-484f-4c34-a96a-89d49b9238ad" alt="microfinance-digital"/>
   </a>
-    <img width="500" alt="description" src="https://github.com/papabaab/papabaab/assets/46681748/c050de44-034a-421b-9a27-04c0a773fc0b">
+    <img width="400" alt="description" src="https://github.com/papabaab/papabaab/assets/46681748/c050de44-034a-421b-9a27-04c0a773fc0b">
   <hr>
   <a target= "_blank" href= "https://rv-acd.com">
-    <img title="rv-acd" width = "500" src="https://github.com/papabaab/papabaab/assets/46681748/627a62c7-d5f6-4901-b011-fe0671112140" alt="Rassemeblement pour la vérité"/>
+    <img title="rv-acd" width = "400" src="https://github.com/papabaab/papabaab/assets/46681748/627a62c7-d5f6-4901-b011-fe0671112140" alt="Rassemeblement pour la vérité"/>
   </a>
-  <img width="500" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
+  <img width="400" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
   <hr>
   
   <a target= "_blank">
-  <img title = "iveez1" src="https://github.com/papabaab/papabaab/assets/46681748/99ac1a89-2215-406f-8972-4e577e059fec" alt = "iveez1" width="250" />
-  <img title = "iveez1" src="https://github.com/user-attachments/assets/b8050382-4b4c-4df8-984b-64ea913f7f3c" alt = "iveez1" width="250" />
+  <img title = "iveez1" src="https://github.com/papabaab/papabaab/assets/46681748/99ac1a89-2215-406f-8972-4e577e059fec" alt = "iveez1" width="200" />
+  <img title = "iveez1" src="https://github.com/user-attachments/assets/b8050382-4b4c-4df8-984b-64ea913f7f3c" alt = "iveez1" width="200" />
   </a>
-    <img width="500" alt="iveez-description" src="https://github.com/user-attachments/assets/5ce5e043-12a0-444f-97f5-c7cd4e64a931">
+    <img width="400" alt="iveez-description" src="https://github.com/user-attachments/assets/5ce5e043-12a0-444f-97f5-c7cd4e64a931">
   <hr>
 
   
