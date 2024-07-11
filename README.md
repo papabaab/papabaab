@@ -67,9 +67,9 @@ I also enjoy programming music and a very devoted sufi student. God First.
   <img width="500" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
   <hr>
   
-  <a target= "_blank" href="https://play.google.com/store/apps/details?id=com.iveez.app">
-  <img src="https://github.com/papabaab/papabaab/assets/46681748/99ac1a89-2215-406f-8972-4e577e059fec" alt = "iveez" width="250" />
-  <img src="https://github.com/papabaab/papabaab/assets/46681748/4fa7ee79-6df9-475a-b939-017a3ca43a61" alt = "iveez" width="250" />
+  <a target= "_blank">
+  <img title = "iveez1" src="https://github.com/papabaab/papabaab/assets/46681748/99ac1a89-2215-406f-8972-4e577e059fec" alt = "iveez1" width="250" />
+  <img title = "iveez1" src="https://github.com/user-attachments/assets/b8050382-4b4c-4df8-984b-64ea913f7f3c" alt = "iveez1" width="250" />
   </a>
     <img width="500" alt="iveez-description" src="https://github.com/user-attachments/assets/5ce5e043-12a0-444f-97f5-c7cd4e64a931">
   <hr>
