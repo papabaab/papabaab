@@ -56,9 +56,20 @@ I also enjoy programming music and a very devoted sufi student. God First.
   
 ## LATEST PROJECTS - PORTFOLIO:
 <div>
+  <a target= "_blank" href= "https://microfinance-digitale-codecrafter-oytr2c9lg.vercel.app/home">
     <img title="video-codecrafter" width = "500" src="https://github.com/papabaab/papabaab/assets/46681748/f94d7ba0-484f-4c34-a96a-89d49b9238ad" alt="microfinance-digital"/>
+  </a>
     <img width="500" alt="description" src="https://github.com/papabaab/papabaab/assets/46681748/c050de44-034a-421b-9a27-04c0a773fc0b">
+  <hr>
+  <a target= "_blank" href= "https://rv-acd.com">
+    <img title="rv-acd" width = "500" src="https://github.com/papabaab/papabaab/assets/46681748/627a62c7-d5f6-4901-b011-fe0671112140" alt="Rassemeblement pour la vérité"/>
+  </a>
+  <img width="318" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
+  <hr>
+
+  
 </div>
+
 
 <!--
 **papabaab/papabaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
