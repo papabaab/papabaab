@@ -64,7 +64,7 @@ I also enjoy programming music and a very devoted sufi student. God First.
   <a target= "_blank" href= "https://rv-acd.com">
     <img title="rv-acd" width = "500" src="https://github.com/papabaab/papabaab/assets/46681748/627a62c7-d5f6-4901-b011-fe0671112140" alt="Rassemeblement pour la vérité"/>
   </a>
-  <img width="318" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
+  <img width="500" alt="description rv-acd" src="https://github.com/papabaab/papabaab/assets/46681748/a3814cf2-3272-4052-9b86-f63178708ae9">
   <hr>
 
   
