@@ -52,6 +52,18 @@ I also enjoy programming music and a very devoted sufi student. God First.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="VisualCode" height="100"/>
 </div>
+  <hr>
+<div>
+    <img src = "https://github.com/papabaab/papabaab/assets/46681748/f94d7ba0-484f-4c34-a96a-89d49b9238ad" alt = "microfinance-digital"/>
+  <div width = "500">
+    <ul>
+      <li>FIRST ITEM</li>
+      <li>SECOND ITEM</li>
+      <li>THIRD ITEM</li>
+    </ul>
+  </div>
+</div>
+
 
 <!--
 **papabaab/papabaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
