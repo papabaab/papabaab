@@ -36,6 +36,7 @@ I also enjoy programming music and a very devoted sufi student. God First.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Java" height="100"/>&nbsp;
   <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nest.js" alt="Nestjs"  height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Expressjs"  height="100"/>&nbsp;
