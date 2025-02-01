@@ -22,9 +22,19 @@
 ## ABOUT ME: 
 I am fullStack Developper from West Africa Senegal. I also have a master's degree in Digital Transformation - option Digital Finance.
 ### My mindset
-the most noble and fulfilling mindset an individual can have is that of a servant of humanity. As we say in Virginia Tech: **Ut Prosim**
-My way of serving humanity is by programming and delivering high quality software. I always strive to bring my piece of the bigger puzzle, making sure that every detail was accounted for, to ease the process of bettering the overall human experience. 
-I also enjoy programming music and a very devoted sufi student. God First.
+💡 The most noble and fulfilling mindset is that of serving humanity. As we say at Virginia Tech: Ut Prosim (That I may serve). And one of my favorite ways of serving? It's Building high-quality software that makes life easier and solves real-world problems.
+
+💻 **Tech Stack:** JavaScript, TypeScript, Angular, React, Nest.js, Express.js, Ionic, Android Studio, Xcode, Firebase, MongoDB, MySQL, Docker, CI/CD, GitHub Actions.
+
+🎨 **Tools & Methods:** Agile (Trello), UI/UX Prototyping (Figma), Google API integration, Cloud services.
+
+🛠️ **Soft Skills:** Problem-solving, leadership, teamwork, adaptability, and a strong eye for detail.
+
+🚀 **Experience:** With several years as a Full-Stack Developer, I’ve built and launched e-commerce platforms, car-sharing apps, and AI-powered financial solutions. From designing sleek front-end interfaces to architecting powerful back-end systems, I thrive in bringing ideas to life through code. Whether working solo or leading a team, my goal is always the same—deliver impactful, scalable, and user-friendly software.
+
+I thrive on turning ideas into functional, impactful solutions—always striving for excellence, one line of code at a time. 🔥
+
+Beyond tech, I 🎶 compose music and 📿 am a devoted Sufi student, always exploring the harmony between matter and spirituality. I am because we are 😉
 
 <hr>
 <h3>Programming Languages, frameworks, tools, etc</h3>
