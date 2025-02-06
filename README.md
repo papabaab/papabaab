@@ -84,8 +84,15 @@ Beyond tech, I 🎶 compose music and 📿 am a devoted Sufi student, always exp
   </a>
     <img width="400" alt="iveez-description" src="https://github.com/user-attachments/assets/5ce5e043-12a0-444f-97f5-c7cd4e64a931">
   <hr>
-
   
+  <a target= "_blank">
+    <img alt="taxibokko-demo" title="taxibokko" src="https://github.com/user-attachments/assets/f138e1f1-27b3-444f-abcd-2eafd2147566" width="400" />
+    </a>
+  <img width="400" alt="taxibokko description" src="https://github.com/user-attachments/assets/0a3df123-391c-4e5d-a651-929c5418f2f0" />
+
+  <hr>
+
+
 </div>
 
 
